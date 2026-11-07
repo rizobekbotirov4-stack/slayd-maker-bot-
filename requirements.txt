@@ -1,0 +1,6 @@
+aiogram
+python-pptx
+python-docx
+reportlab
+Pillow
+openai
